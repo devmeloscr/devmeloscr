@@ -17,3 +17,8 @@
 [![TYS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![NODEJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+
+### Formação Acadêmica:
+
+- Cursando Ciência da Computação 3/8
+![Progress](https://geps.dev/progress/24?dangerColor=800000&warningColor=ff9900&successColor=006600)
