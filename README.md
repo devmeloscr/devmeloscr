@@ -1,9 +1,5 @@
 ### Olá, eu sou o MeloSCR! ✋
 
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Melo_SCR)
-[![Intagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/julio_c_melo)
-[![Discord](https://img.shields.io/badge/@meloscr-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me/344275918103248908)
-
 ![MeloSCR's GitHub stats](https://github-readme-stats.vercel.app/api?username=devmeloscr&show_icons=true&theme=dracula)
 
 ### Tecnologias que uso no meu cotidiano
@@ -25,5 +21,5 @@
 
 ### Formação Acadêmica:
 
-- Cursando Ciência da Computação 3/8
+- Cursando Ciência da Computação 4/8
 ![Progress](https://geps.dev/progress/24?dangerColor=800000&warningColor=ff9900&successColor=006600)
