@@ -1,7 +1,5 @@
 ### Olá, eu sou o MeloSCR! ✋
 
-![MeloSCR's GitHub stats](https://github-readme-stats.vercel.app/api?username=devmeloscr&show_icons=true&theme=dracula)
-
 ### Tecnologias que uso no meu cotidiano
 
 [![NEXT](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
@@ -22,4 +20,4 @@
 ### Formação Acadêmica:
 
 - Cursando Ciência da Computação 4/8
-![Progress](https://geps.dev/progress/24?dangerColor=800000&warningColor=ff9900&successColor=006600)
+![Progress](https://geps.dev/progress/50?dangerColor=800000&warningColor=ff9900&successColor=006600)
