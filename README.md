@@ -19,5 +19,5 @@
 
 ### Formação Acadêmica:
 
-- Cursando Ciência da Computação 4/8
-![Progress](https://geps.dev/progress/50?dangerColor=800000&warningColor=ff9900&successColor=006600)
+- Cursando Ciência da Computação 5/8
+![Progress](https://geps.dev/progress/62?dangerColor=800000&warningColor=ff9900&successColor=006600)
