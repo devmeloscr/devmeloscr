@@ -1,4 +1,4 @@
-### Olá, eu sou o MeloSCR! ✋
+### Olá, me chamo Júlio Melo, mas pode me chamar de MeloSCR! ✋
 
 ### Tecnologias que uso no meu cotidiano
 
