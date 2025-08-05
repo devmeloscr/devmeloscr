@@ -1,6 +1,6 @@
-### Olá, me chamo Júlio Melo, mas pode me chamar de MeloSCR! ✋
+### Hello, my name is Júlio Melo, but you can call me MeloSCR! ✋
 
-### Tecnologias que uso no meu cotidiano
+### Technologies I use in my daily work
 
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 [![NEXT](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
@@ -18,14 +18,14 @@
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-### Formação Acadêmica:
+### Academic Background:
 
-- Ensino Médio Completo
-- Cursando Ciência da Computação 6/8
+- High School Graduate
+- Pursuing a Bachelor's Degree in Computer Science (6th out of 8 semesters)
 ![Progress](https://geps.dev/progress/75?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
-### Experiência Profissional:
+### Professional Experience:
 
-- Desenvolvedor Autônomo em Lua para MTA/FiveM - 2020-2023
-- Desenvolvedor Autônomo com Freelances para WEB - 2023-2024
-- Desenvolvedor Full-Stack na IplanRio 2024-Atual
+- Freelance Developer in Lua for MTA/FiveM – 2020–2023  
+- Freelance Web Developer – 2023–2024  
+- Full-Stack Developer at IplanRio – 2024–Present
