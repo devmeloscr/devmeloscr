@@ -20,11 +20,11 @@
 ### Formação Acadêmica:
 
 - Ensino Médio Completo
-- Cursando Ciência da Computação 5/8
-![Progress](https://geps.dev/progress/62?dangerColor=800000&warningColor=ff9900&successColor=006600)
+- Cursando Ciência da Computação 6/8
+![Progress](https://geps.dev/progress/75?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
 ### Experiência Profissional:
 
 - Desenvolvedor Autônomo em Lua para MTA/FiveM - 2020-2023
 - Desenvolvedor Autônomo com Freelances para WEB - 2023-2024
-- Desenvolvedor Full-Stack na IplanRIO 2024-Atual
+- Desenvolvedor Full-Stack na IplanRio 2024-Atual
