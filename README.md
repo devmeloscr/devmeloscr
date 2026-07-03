@@ -27,5 +27,5 @@
 ### Professional Experience:
 
 - Freelance Developer in Lua for MTA/FiveM – 2020–2023  
-- Freelance Web Developer – 2023–2024  
+- Freelance Web Developer – 2023–Present  
 - Full-Stack Developer at IplanRio – 2024–Present
