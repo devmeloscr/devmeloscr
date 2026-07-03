@@ -21,8 +21,8 @@
 ### Academic Background:
 
 - High School Graduate
-- Pursuing a Bachelor's Degree in Computer Science (6th out of 8 semesters)
-![Progress](https://geps.dev/progress/75?dangerColor=800000&warningColor=ff9900&successColor=006600)
+- Pursuing a Bachelor's Degree in Computer Science (7th out of 8 semesters)
+![Progress](https://geps.dev/progress/90?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
 ### Professional Experience:
 
